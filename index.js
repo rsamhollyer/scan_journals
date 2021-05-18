@@ -6,6 +6,11 @@ const app = express();
 const server = http.createServer(app);
 const axios = require('axios');
 const cheerio = require('cheerio');
+const db = require('./db/db.js');
+
+db.get('students')
+  .assign({ sam: [{}, {}, {}], count: 0 })
+  .write();
 
 const HOST = 'localhost';
 const PORT = 4834;
@@ -17,6 +22,7 @@ const getGithub = async (url) => {
 
 const getJournals = async (html) => {
   const allLinks = [];
+  const userObj = {};
   const $ = cheerio.load(html, false);
   const links = $('[data-pjax="#repo-content-pjax-container"]');
   links.each((_, el) => {
@@ -25,7 +31,10 @@ const getJournals = async (html) => {
       href: $(el).attr('href'),
     });
   });
-  return allLinks;
+  const linksLength = allLinks.length;
+  userObj.Sarah = { repos: allLinks, total: linksLength };
+  console.log(userObj);
+  return userObj;
 };
 
 const go = async () => {
