@@ -46,17 +46,23 @@ async function go(studentObject) {
   const students = {};
   for (const key of Object.keys(studentObject)) {
     if (studentObject[key] === null) {
-      // eslint-disable-next-line no-continue
-      Object.assign(students, { key: null });
+      const nullData = {};
+      const name = `${key}`;
+      nullData[name] = null;
+      Object.assign(students, nullData);
     } else {
       const data = await getJournals(key, await getGithub(studentObject[key]));
       Object.assign(students, data);
     }
-    console.log(students);
   }
   return students;
 }
 
+app.get('/scrape', async (req, res, next) => {
+  console.log(`SCRAPING!`);
+  const stuff = await go(studentData);
+  res.json({ stuff });
+});
 
 server.listen(PORT, HOST, () => {
   console.log(`App listening on http://${HOST}:${PORT}`);
