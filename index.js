@@ -20,11 +20,7 @@ app.get('/', (req, res, next) => {
 app.get('/scrape', async (req, res, next) => {
   console.log(`SCRAPING!`);
   const students = await go(studentData);
-  db.get('students')
-    .assign(students)
-    .last()
-    .assign({ updatedLast: Date.now().toString() })
-    .write();
+  db.get('students').assign(students).write();
   res.json({ students });
 });
 
