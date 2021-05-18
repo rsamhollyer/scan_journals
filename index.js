@@ -58,6 +58,10 @@ async function go(studentObject) {
   return students;
 }
 
+app.get('/', (req, res, next) => {
+  res.send('HI');
+});
+
 app.get('/scrape', async (req, res, next) => {
   console.log(`SCRAPING!`);
   const stuff = await go(studentData);
