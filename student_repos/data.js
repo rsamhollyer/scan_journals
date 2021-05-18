@@ -1,6 +1,6 @@
 /* You'll need to get the student's url for their journals. If they do not exist, set the value to null */
 
-export const studentData = {
+const studentData = {
   'Alyssa DiCarlo': 'https://github.com/alyssadicarlo/coding_journey',
   'Sarah DePalo': 'https://github.com/sarahdepalo/journal',
   'Brittany Fisher': 'https://github.com/brittany-fisher21/Journey',
@@ -22,3 +22,5 @@ export const studentData = {
   'Otis Wilcox': 'https://github.com/gtfotis/Dear_Diary',
   'Dominique Kilgo': null,
 };
+
+module.exports = studentData;
