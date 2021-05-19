@@ -155,10 +155,14 @@
         {
           "text": "week01.md",
           "href": "/david-vasek/bloggin/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/david-vasek/bloggin/blob/main/week02.md"
         }
       ],
-      "total": 1,
-      "updatedData": "2021-05-19T01:24:09.693Z"
+      "total": 2,
+      "updatedData": "2021-05-19T16:28:08.242Z"
     },
     "Immanuel Alexander": {
       "repos": [
@@ -204,5 +208,6 @@
     },
     "Dominique Kilgo": null
   },
-  "expectedEntries": 2
+  "expectedEntries": 2,
+  "lastRun": "2021-05-19T16:29:10.202Z"
 }
