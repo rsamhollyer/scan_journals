@@ -7,7 +7,7 @@ const studentData = {
   'Erin Harper': 'https://github.com/emhhd7/the-archives',
   'Daniel Agbenu': null,
   'Nicholas Aldridge': 'https://github.com/naldridge/journal',
-  'Jabah Gundy': null,
+  'Jabah Gundy': 'https://github.com/Jabahgundy/Journey',
   'Joshua Simon': null,
   'Keith Benjamin': 'https://github.com/Islayah/captains-log',
   'Chanel Adams': null,

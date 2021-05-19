@@ -71,7 +71,20 @@
       "total": 2,
       "updatedData": "2021-05-19T01:24:04.367Z"
     },
-    "Jabah Gundy": null,
+    "Jabah Gundy": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/Jabahgundy/Journey/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/Jabahgundy/Journey/blob/main/week02.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "2021-05-19T18:40:05.302Z"
+    },
     "Joshua Simon": null,
     "Keith Benjamin": {
       "repos": [
@@ -209,5 +222,5 @@
     "Dominique Kilgo": null
   },
   "expectedEntries": 2,
-  "lastRun": "2021-05-19T16:29:10.202Z"
+  "lastRun": "2021-05-19T18:43:10.663Z"
 }
