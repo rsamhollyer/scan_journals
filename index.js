@@ -1,1 +1,1 @@
-// const cron = require('./lib/cron');
+const cron = require('./lib/cron');
