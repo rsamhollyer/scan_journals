@@ -1,0 +1,267 @@
+{
+  "students": {
+    "Alyssa DiCarlo": {
+      "repos": [
+        {
+          "text": "README.md",
+          "href": "/alyssadicarlo/coding_journey/blob/main/README.md"
+        },
+        {
+          "text": "week01.md",
+          "href": "/alyssadicarlo/coding_journey/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/alyssadicarlo/coding_journey/blob/main/week02.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "May 18th 2021, 7:28:01 pm"
+    },
+    "Sarah DePalo": {
+      "repos": [
+        {
+          "text": "images",
+          "href": "/sarahdepalo/journal/tree/main/images"
+        },
+        {
+          "text": "README.md",
+          "href": "/sarahdepalo/journal/blob/main/README.md"
+        },
+        {
+          "text": "week01.md",
+          "href": "/sarahdepalo/journal/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/sarahdepalo/journal/blob/main/week02.md"
+        }
+      ],
+      "total": 4,
+      "updatedData": "May 18th 2021, 7:28:02 pm"
+    },
+    "Brittany Fisher": {
+      "repos": [
+        {
+          "text": "README.md",
+          "href": "/brittany-fisher21/Journey/blob/main/README.md"
+        },
+        {
+          "text": "week01.md",
+          "href": "/brittany-fisher21/Journey/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/brittany-fisher21/Journey/blob/main/week02.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "May 18th 2021, 7:28:02 pm"
+    },
+    "Erin Harper": {
+      "repos": [
+        {
+          "text": "README.md",
+          "href": "/emhhd7/the-archives/blob/main/README.md"
+        },
+        {
+          "text": "scroll-01.md",
+          "href": "/emhhd7/the-archives/blob/main/scroll-01.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "May 18th 2021, 7:28:03 pm"
+    },
+    "Daniel Agbenu": null,
+    "Nicholas Aldridge": {
+      "repos": [
+        {
+          "text": "journal_week1.md",
+          "href": "/naldridge/journal/blob/main/journal_week1.md"
+        },
+        {
+          "text": "journal_week2.md",
+          "href": "/naldridge/journal/blob/main/journal_week2.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "May 18th 2021, 7:28:03 pm"
+    },
+    "Jabah Gundy": null,
+    "Joshua Simon": null,
+    "Keith Benjamin": {
+      "repos": [
+        {
+          "text": "README.md",
+          "href": "/Islayah/captains-log/blob/main/README.md"
+        },
+        {
+          "text": "week01.md",
+          "href": "/Islayah/captains-log/blob/main/week01.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "May 18th 2021, 7:28:04 pm"
+    },
+    "Chanel Adams": null,
+    "Miguel Folgar": {
+      "repos": [
+        {
+          "text": "README.md",
+          "href": "/MiguelFolgar/journey-/blob/main/README.md"
+        },
+        {
+          "text": "week01.md",
+          "href": "/MiguelFolgar/journey-/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/MiguelFolgar/journey-/blob/main/week02.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "May 18th 2021, 7:28:04 pm"
+    },
+    "Nathaniel Lee": {
+      "repos": [
+        {
+          "text": "README.md",
+          "href": "/natelee3/blog_posts/blob/main/README.md"
+        },
+        {
+          "text": "week01.md",
+          "href": "/natelee3/blog_posts/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/natelee3/blog_posts/blob/main/week02.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "May 18th 2021, 7:28:05 pm"
+    },
+    "Rodrigo Ruiz": {
+      "repos": [
+        {
+          "text": "README.md",
+          "href": "/Rodrigo-Ruiz1/journey/blob/main/README.md"
+        },
+        {
+          "text": "week01.md",
+          "href": "/Rodrigo-Ruiz1/journey/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/Rodrigo-Ruiz1/journey/blob/main/week02.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "May 18th 2021, 7:28:06 pm"
+    },
+    "Logan Cooper": {
+      "repos": [
+        {
+          "text": "README.md",
+          "href": "/logancooper/DigitalCraftsBlog/blob/main/README.md"
+        },
+        {
+          "text": "week1.md",
+          "href": "/logancooper/DigitalCraftsBlog/blob/main/week1.md"
+        },
+        {
+          "text": "week2.md",
+          "href": "/logancooper/DigitalCraftsBlog/blob/main/week2.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "May 18th 2021, 7:28:06 pm"
+    },
+    "Zach Gleeson": {
+      "repos": [
+        {
+          "text": "README.md",
+          "href": "/zach-a-g/Journey/blob/main/README.md"
+        },
+        {
+          "text": "week01.md",
+          "href": "/zach-a-g/Journey/blob/main/week01.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "May 18th 2021, 7:28:07 pm"
+    },
+    "David Vasek": {
+      "repos": [
+        {
+          "text": "README.md",
+          "href": "/david-vasek/bloggin/blob/main/README.md"
+        },
+        {
+          "text": "week01.md",
+          "href": "/david-vasek/bloggin/blob/main/week01.md"
+        },
+        {
+          "text": "week02.py",
+          "href": "/david-vasek/bloggin/blob/main/week02.py"
+        }
+      ],
+      "total": 3,
+      "updatedData": "May 18th 2021, 7:28:07 pm"
+    },
+    "Immanuel Alexander": {
+      "repos": [
+        {
+          "text": "README.md",
+          "href": "/1mvnnie/journey/blob/main/README.md"
+        },
+        {
+          "text": "week01.md",
+          "href": "/1mvnnie/journey/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/1mvnnie/journey/blob/main/week02.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "May 18th 2021, 7:28:08 pm"
+    },
+    "Alyna Palamarchuk": {
+      "repos": [
+        {
+          "text": "README.md",
+          "href": "/alynapchuk/ThisIsFine/blob/main/README.md"
+        },
+        {
+          "text": "week01.md",
+          "href": "/alynapchuk/ThisIsFine/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/alynapchuk/ThisIsFine/blob/main/week02.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "May 18th 2021, 7:28:08 pm"
+    },
+    "Otis Wilcox": {
+      "repos": [
+        {
+          "text": "README.md",
+          "href": "/gtfotis/Dear_Diary/blob/main/README.md"
+        },
+        {
+          "text": "week01.md",
+          "href": "/gtfotis/Dear_Diary/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/gtfotis/Dear_Diary/blob/main/week02.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "May 18th 2021, 7:28:09 pm"
+    },
+    "Dominique Kilgo": null
+  }
+}
