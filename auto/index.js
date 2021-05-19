@@ -6,6 +6,8 @@ const bot = new SlackBot({
   name: 'AlertBot',
 });
 
-// bot.on('start', () => {
-//   bot.postMessageToChannel('our-marriage', 'AlertBot starting...');
-// });
+bot.on('start', () => {
+  bot.postMessageToChannel('our-marriage', 'AlertBot starting...');
+});
+
+module.exports = bot;
