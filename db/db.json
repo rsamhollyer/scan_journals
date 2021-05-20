@@ -158,10 +158,14 @@
         {
           "text": "week01.md",
           "href": "/zach-a-g/Journey/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/zach-a-g/Journey/blob/main/week02.md"
         }
       ],
-      "total": 1,
-      "updatedData": "2021-05-19T01:24:09.095Z"
+      "total": 2,
+      "updatedData": "2021-05-20T18:22:08.304Z"
     },
     "David Vasek": {
       "repos": [
@@ -222,5 +226,5 @@
     "Dominique Kilgo": null
   },
   "expectedEntries": 2,
-  "lastRun": "2021-05-19T18:43:10.663Z"
+  "lastRun": "2021-05-20T18:28:11.691Z"
 }
