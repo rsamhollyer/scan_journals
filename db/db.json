@@ -1,5 +1,284 @@
 {
-  "students": {},
-  "expectedEntries": 2,
-  "lastRun": "2021-05-21T12:10:43.649Z"
+  "students": {
+    "Alyssa DiCarlo": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/alyssadicarlo/coding_journey/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/alyssadicarlo/coding_journey/blob/main/week02.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "2021-05-24T13:15:01.197Z"
+    },
+    "Sarah DePalo": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/sarahdepalo/journal/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/sarahdepalo/journal/blob/main/week02.md"
+        },
+        {
+          "text": "week03.md",
+          "href": "/sarahdepalo/journal/blob/main/week03.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "2021-05-24T13:15:01.820Z"
+    },
+    "Brittany Fisher": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/brittany-fisher21/Journey/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/brittany-fisher21/Journey/blob/main/week02.md"
+        },
+        {
+          "text": "week03.md",
+          "href": "/brittany-fisher21/Journey/blob/main/week03.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "2021-05-24T13:15:02.525Z"
+    },
+    "Erin Harper": {
+      "repos": [
+        {
+          "text": "scroll-01.md",
+          "href": "/emhhd7/the-archives/blob/main/scroll-01.md"
+        },
+        {
+          "text": "scroll-02.md",
+          "href": "/emhhd7/the-archives/blob/main/scroll-02.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "2021-05-24T13:15:03.107Z"
+    },
+    "Daniel Agbenu": {
+      "repos": [
+        {
+          "text": "mydiary.md",
+          "href": "/Dannyagg/myjourney/blob/main/mydiary.md"
+        },
+        {
+          "text": "mydiarywk2.md",
+          "href": "/Dannyagg/myjourney/blob/main/mydiarywk2.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "2021-05-24T13:41:03.989Z"
+    },
+    "Nicholas Aldridge": {
+      "repos": [
+        {
+          "text": "journal_week1.md",
+          "href": "/naldridge/journal/blob/main/journal_week1.md"
+        },
+        {
+          "text": "journal_week2.md",
+          "href": "/naldridge/journal/blob/main/journal_week2.md"
+        },
+        {
+          "text": "journal_week3.md",
+          "href": "/naldridge/journal/blob/main/journal_week3.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "2021-05-24T13:15:03.657Z"
+    },
+    "Jabah Gundy": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/Jabahgundy/Journey/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/Jabahgundy/Journey/blob/main/week02.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "2021-05-24T13:15:04.188Z"
+    },
+    "Joshua Simon": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/joshsimon-bit/journals/blob/master/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/joshsimon-bit/journals/blob/master/week02.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "2021-05-24T13:41:05.629Z"
+    },
+    "Keith Benjamin": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/Islayah/captains-log/blob/main/week01.md"
+        }
+      ],
+      "total": 1,
+      "updatedData": "2021-05-24T13:15:04.751Z"
+    },
+    "Chanel Adams": null,
+    "Miguel Folgar": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/MiguelFolgar/journey-/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/MiguelFolgar/journey-/blob/main/week02.md"
+        },
+        {
+          "text": "week03.md",
+          "href": "/MiguelFolgar/journey-/blob/main/week03.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "2021-05-24T13:15:05.389Z"
+    },
+    "Nathaniel Lee": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/natelee3/blog_posts/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/natelee3/blog_posts/blob/main/week02.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "2021-05-24T13:15:05.991Z"
+    },
+    "Rodrigo Ruiz": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/Rodrigo-Ruiz1/journey/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/Rodrigo-Ruiz1/journey/blob/main/week02.md"
+        },
+        {
+          "text": "week03.md",
+          "href": "/Rodrigo-Ruiz1/journey/blob/main/week03.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "2021-05-24T13:15:06.560Z"
+    },
+    "Logan Cooper": {
+      "repos": [
+        {
+          "text": "week1.md",
+          "href": "/logancooper/DigitalCraftsBlog/blob/main/week1.md"
+        },
+        {
+          "text": "week2.md",
+          "href": "/logancooper/DigitalCraftsBlog/blob/main/week2.md"
+        },
+        {
+          "text": "week3.md",
+          "href": "/logancooper/DigitalCraftsBlog/blob/main/week3.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "2021-05-24T13:15:07.179Z"
+    },
+    "Zach Gleeson": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/zach-a-g/Journey/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/zach-a-g/Journey/blob/main/week02.md"
+        },
+        {
+          "text": "week03.md",
+          "href": "/zach-a-g/Journey/blob/main/week03.md"
+        }
+      ],
+      "total": 3,
+      "updatedData": "2021-05-24T13:15:07.774Z"
+    },
+    "David Vasek": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/david-vasek/bloggin/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/david-vasek/bloggin/blob/main/week02.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "2021-05-24T13:15:08.349Z"
+    },
+    "Immanuel Alexander": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/1mvnnie/journey/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/1mvnnie/journey/blob/main/week02.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "2021-05-24T13:15:08.973Z"
+    },
+    "Alyna Palamarchuk": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/alynapchuk/ThisIsFine/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/alynapchuk/ThisIsFine/blob/main/week02.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "2021-05-24T13:15:09.653Z"
+    },
+    "Otis Wilcox": {
+      "repos": [
+        {
+          "text": "week01.md",
+          "href": "/gtfotis/Dear_Diary/blob/main/week01.md"
+        },
+        {
+          "text": "week02.md",
+          "href": "/gtfotis/Dear_Diary/blob/main/week02.md"
+        }
+      ],
+      "total": 2,
+      "updatedData": "2021-05-24T13:15:10.209Z"
+    },
+    "Dominique Kilgo": null
+  },
+  "expectedEntries": 3,
+  "lastRun": "2021-05-24T13:43:09.733Z"
 }
