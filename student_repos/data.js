@@ -10,7 +10,6 @@ const studentData = {
   'Jabah Gundy': 'https://github.com/Jabahgundy/Journey',
   'Joshua Simon': 'https://github.com/joshsimon-bit/journals',
   'Keith Benjamin': 'https://github.com/Islayah/captains-log',
-  'Chanel Adams': null,
   'Miguel Folgar': 'https://github.com/MiguelFolgar/journey-',
   'Nathaniel Lee': 'https://github.com/natelee3/blog_posts',
   'Rodrigo Ruiz': 'https://github.com/Rodrigo-Ruiz1/journey',
@@ -20,7 +19,6 @@ const studentData = {
   'Immanuel Alexander': 'https://github.com/1mvnnie/journey',
   'Alyna Palamarchuk': 'https://github.com/alynapchuk/ThisIsFine',
   'Otis Wilcox': 'https://github.com/gtfotis/Dear_Diary',
-  'Dominique Kilgo': null,
 };
 
 module.exports = studentData;
