@@ -16,7 +16,6 @@ async function startBot() {
     bot.on('start', async () => {
       bot.postMessageToChannel('random', '🤖 AlertBot starting...');
       const result = await createJob();
-      return result;
     });
   }
 }
