@@ -2,6 +2,8 @@ const moment = require('moment');
 const createJob = require('./lib/cron');
 const { checkExpectedEntries } = require('./lib');
 
+checkExpectedEntries();
+
 async function startBot() {
   if (
     moment().format('dddd') === 'Saturday' ||

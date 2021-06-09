@@ -5,7 +5,7 @@ const adapter = new FileSync('./db/db.json');
 const db = low(adapter);
 db.defaults({
   students: {},
-  expectedEntries: 4,
+  expectedEntries: 5,
   lastRun: new Date(),
 }).write();
 
